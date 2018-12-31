@@ -1,5 +1,5 @@
 
-class curfews
+class Curfews
 curfew>23 && curfew<6
 if Time.now.hour<23 && Time.now.hour>=6
   puts "You are fine"
