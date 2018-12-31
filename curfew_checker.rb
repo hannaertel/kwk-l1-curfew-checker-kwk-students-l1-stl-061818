@@ -10,4 +10,7 @@ end
 if Time.now.hour == curfew
   puts "oh no"
 else
-  puts "You have #{"
+  puts "You have #{time} hours until curfew."
+end
+end 
+curfews
