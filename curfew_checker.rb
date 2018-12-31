@@ -7,7 +7,7 @@ else
   puts "You're in trouble"
 end
 
-time = 23 - Time.now.hour 
+time = 29 - Time.now.hour 
 
 if Time.now.hour>=23 && Time.now.hour<=6
   puts "oh no"
