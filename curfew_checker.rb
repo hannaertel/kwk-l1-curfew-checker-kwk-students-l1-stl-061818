@@ -13,4 +13,3 @@ else
   puts "You have #{time} hours until curfew."
 end
 end 
-curfews
