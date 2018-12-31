@@ -7,7 +7,7 @@ else
   puts "You're in trouble"
 end
 
-
+time = 23- Time.now.hour 
 
 if Time.now.hour == curfew
   puts "oh no"
