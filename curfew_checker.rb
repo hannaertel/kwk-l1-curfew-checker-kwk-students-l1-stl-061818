@@ -1,5 +1,5 @@
 
-class Curfews
+
 curfew = Time>23 && Time<6
 if Time.now.hour<23 && Time.now.hour>=6
   puts "You are fine"
@@ -12,4 +12,4 @@ if Time.now.hour == curfew
 else
   puts "You have #{time} hours until curfew."
 end
-end 
+ 
